@@ -6,7 +6,9 @@ Atualmente, faço parte do grupo de pesquisa BIOD (http://biod.ufpa.br/), onde a
 
 <div>
 <a href="https://github.com/victoriacardoso">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoriacardoso)](https://github.com/victoriacardoso/github-readme-stats)
+[![Top Linguagens])](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact"/>
+  
 </div>
 <!--
 **victoriacardoso/victoriacardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
