@@ -6,7 +6,7 @@ Atualmente, faço parte do grupo de pesquisa BIOD (http://biod.ufpa.br/), onde a
 
 <div>
 <a href="https://github.com/victoriacardoso">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriacardoso&layout=compact"/>
   
 </div>
 <!--
