@@ -6,7 +6,6 @@ Atualmente, faço parte do grupo de pesquisa BIOD (http://biod.ufpa.br/), onde a
 
 <div>
 <a href="https://github.com/victoriacardoso">
-[![Top Linguagens])](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact"/>
   
 </div>
