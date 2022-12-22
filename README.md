@@ -12,3 +12,6 @@ Atualmente, faço parte do grupo de pesquisa BIOD (http://biod.ufpa.br/), onde a
 <!--
 **victoriacardoso/victoriacardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div>
+  <a href="[https://www.linkedin.com/in/victoria-cardoso/]" target="somethingUnique"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="somethingUnique"></a> 
+</div>
