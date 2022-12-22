@@ -1,7 +1,7 @@
 # Olá, bem-vindo! 👋
 
 Sou estudante de Engenharia de Computação na UFPA - 5/10.
-Atualmente, faço parte do grupo de pesquisa BIOD (http://biod.ufpa.br/), onde atuo desenvolvendo softwares e auxiliando em pesquisas científicas.
+Atualmente, faço parte do grupo de pesquisa BIOD (http://biod.ufpa.br/), onde atuo desenvolvendo softwares e auxiliando em análises biológicas.
 
 
 <div>
