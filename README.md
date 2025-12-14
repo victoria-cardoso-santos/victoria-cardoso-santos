@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <img align="center" alt="Victoria-Languages" src="https://skillicons.dev/icons?i=html,css,js,spring,mysql,mongo,flutter,java,py,c,vuejs,nodejs,c#">
+  <img align="center" alt="Victoria-Languages" src="https://skillicons.dev/icons?i=html,css,js,spring,mysql,mongo,flutter,java,py,vuejs,nodejs,net">
 </div>      
                                                                                                                                     
   ##
